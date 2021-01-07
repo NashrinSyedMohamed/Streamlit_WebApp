@@ -1,4 +1,4 @@
-# Streamlit_WebApp
+# Streamlit_CryptoCurrency_DashBoard
 The deployed web app is live at https://crypto-dash-streamlit.herokuapp.com/
 
 Feature of DashBoard
